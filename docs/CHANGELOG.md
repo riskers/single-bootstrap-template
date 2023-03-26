@@ -1,3 +1,10 @@
+# [1.2.0-alpha.1](https://github.com/riskers/single-bootstrap-template/compare/v1.1.0...v1.2.0-alpha.1) (2023-03-26)
+
+
+### Features
+
+* New function ([e0c3c82](https://github.com/riskers/single-bootstrap-template/commit/e0c3c8211f7d15df41352e17092ac6f3026c97f0))
+
 # [1.1.0](https://github.com/riskers/single-bootstrap-template/compare/v1.0.0...v1.1.0) (2023-03-26)
 
 
