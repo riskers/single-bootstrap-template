@@ -1,4 +1,6 @@
-# opensource-fe-template
+# single bootstrap template
+
+[NPM Example](https://www.npmjs.com/package/single-bootstrap-template)
 
 ## Lint and Format
 
