@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/riskers/single-bootstrap-template/compare/v1.2.0...v1.3.0) (2023-04-08)
+
+
+### Features
+
+* Foo feat ([cd89e6b](https://github.com/riskers/single-bootstrap-template/commit/cd89e6b3c8661a8d1c98dbb878790f2904eb4b37))
+
 # [1.3.0-alpha.1](https://github.com/riskers/single-bootstrap-template/compare/v1.2.0...v1.3.0-alpha.1) (2023-04-07)
 
 
